@@ -169,14 +169,18 @@ Obviously the Level2 Pinball cabinet wants to be customized with beautiful Art-w
 
 # Rough cost-estimate
 
-| Item                 | Price     |
-|---------------------|------------|
-| PC-Hardware  | 2300€   |
-| Software         | 160€      |
-| Screens          | 2100€    |
-| Wood              | 1000€    |
-| Glass              | 150€      |
-| Pinball HW      | 700€     |
-| Tools               | 300€     |
-| Misc                | 120€      |
-| *Total Cost*     | *6686€* |
+| Item                  | Price         |
+|----------------------|---------------|
+| PC-Hardware   | 2300€       |
+| Software           | 160€         |
+| Screens            | 2100€       |
+| Wood                | 1000€       |
+| Glass                | 150€         |
+| Pinball HW        | 700€         |
+| Tools                 | 300€         |
+| Misc                   | 120€         |
+| **Total Cost**     | **6686€** |
+
+# Comm channels
+
+[Slack](https://level2lu.slack.com/messages/vpinballcabinet/)
