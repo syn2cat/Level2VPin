@@ -111,7 +111,7 @@ To make the experience more real adding a piece of tempered glass over the big p
 
 ## Software
 
-* Windows 7 Pro (To run XP compatibility mode)
+* Windows 7 Pro (To run XP compatibility mode) Approx. 160€
 * Visual Pinball
 * VPinMAME
 * PinballX
@@ -169,14 +169,14 @@ Obviously the Level2 Pinball cabinet wants to be customized with beautiful Art-w
 
 # Rough cost-estimate
 
-| Item                 | Price    |
-|---------------------|-----------|
-| PC-Hardware  | 2300€  |
-| Software         | 160€     |
-| Screens          | 2100€   |
-| Wood              | 1000€   |
-| Glass              | 150€     |
-| Pinball HW      | 700€    |
-| Tools               | 300€    |
-| Misc                | 120€    |
-| *Total Cost*     | *6686* |
+| Item                 | Price     |
+|---------------------|------------|
+| PC-Hardware  | 2300€   |
+| Software         | 160€      |
+| Screens          | 2100€    |
+| Wood              | 1000€    |
+| Glass              | 150€      |
+| Pinball HW      | 700€     |
+| Tools               | 300€     |
+| Misc                | 120€      |
+| *Total Cost*     | *6686€* |
